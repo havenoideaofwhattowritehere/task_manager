@@ -1,2 +1,2 @@
 # task_manager
-React+Redux+Nest.JS
+React.JS+Redux+RKT Query+Nest.JS+Electron.JS+TypeScript
