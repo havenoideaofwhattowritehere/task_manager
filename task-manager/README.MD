@@ -97,4 +97,4 @@ PORT=3001
    Запуск Electron: У разі помилок, пов'язаних із запуском Electron, спробуйте перевстановити залежності або виконати команду npm rebuild.
    Контакти
    Автор: Nikita Grinyov
-   Репозиторій: [Твій GitHub/Bitbucket посилання на репозиторій]
+   Репозиторій: https://github.com/havenoideaofwhattowritehere/task_manager
