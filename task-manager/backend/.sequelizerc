@@ -1,0 +1,8 @@
+const path = require('path');
+
+module.exports = {
+  config: path.resolve('src', 'core', 'config', 'cli-config', 'config.js'), // Шлях до вашого конфігураційного файлу
+  'migrations-path': path.resolve('database', 'migrations'), // Шлях до папки з міграціями
+  'models-path': path.resolve('src', 'models'), // Шлях до папки з моделями (якщо є)
+  'seeders-path': path.resolve('seeders'), // Шлях до папки з seeders (якщо є)
+};
